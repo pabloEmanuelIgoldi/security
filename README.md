@@ -1,7 +1,7 @@
 
 
 La aplicación es una demostracion de como manejar la libreria Spring Security con JWT.
-Como es una demo no se usa base de datos, el usuario y su rol se configura en el applicarion.properties
+Como es una demo no se usa base de datos, el usuario, pass y su rol se configura en el applicarion.properties
 
 Tecnologias principales:
 Proyecto Spring Boot 2.7.18
