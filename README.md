@@ -12,15 +12,15 @@ Java 8
 
 Librerias principales:
 
-spring-boot-starter-web
-spring-boot-starter-security
-jjwt
+- spring-boot-starter-web
+- spring-boot-starter-security
+- jjwt
 
 Librerias adicionales:
 
 lombok
-springfox (Swagger)
-spring-boot-starter-validation
+- springfox (Swagger)
+- spring-boot-starter-validation
 
 Instalacion local:
 
