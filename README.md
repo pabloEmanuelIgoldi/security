@@ -7,7 +7,7 @@ Tecnologias principales:
 Proyecto Spring Boot 2.7.18
 Java 8
 
-Librerias:
+Librerias principales:
 spring-boot-starter-web
 spring-boot-starter-security
 jjwt
